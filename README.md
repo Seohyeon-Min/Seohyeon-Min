@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiSeohyeon-Minanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{Seohyeon-Min}?pet-id=1" width="1000" height="120"/>
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
